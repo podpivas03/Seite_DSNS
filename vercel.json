@@ -1,9 +1,8 @@
 
 {
   "version": 2,
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
   "cleanUrls": true,
-  "trailingSlash": false,
-  "framework": null,
-  "buildCommand": null,
-  "outputDirectory": "."
+  "framework": "vite"
 }
