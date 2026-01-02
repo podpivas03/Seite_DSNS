@@ -1,0 +1,19 @@
+
+{
+  "name": "dsns-portal-ukraine-gta",
+  "version": "1.0.0",
+  "description": "Офіційний портал фракції ДСНС ігрового проекту UKRAINE GTA",
+  "main": "index.tsx",
+  "scripts": {
+    "start": "serve ."
+  },
+  "keywords": [
+    "dsns",
+    "ukraine-gta",
+    "mta",
+    "rp",
+    "react"
+  ],
+  "author": "DSNU Team",
+  "license": "MIT"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ДСНС - UKRAINE GTA",
+  "description": "Офіційний портал фракції ДСНС ігрового проекту UKRAINE GTA. Статути, новини серверів та ШІ-помічник для рятувальників.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
